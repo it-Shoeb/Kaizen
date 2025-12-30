@@ -2,10 +2,9 @@
 
 ## Table of contents
 
-- [useful-links](#useful-links)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Useful resources](#useful-resources)
+- [Useful-Links](#useful-links)
+- [Installation](#installation)
+- [Inspiration](#inspiration)
 - [Author](#author)
 
 ## Useful Links 🔗
