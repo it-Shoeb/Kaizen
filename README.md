@@ -2,10 +2,10 @@
 
 ## Table Contents
 
-- [Useful-Links](#useful-links)
-- [Installation](#installation)
-- [Inspiration](#inspiration)
-- [Author](#author)
+    - [Useful-Links](#useful-links)
+    - [Installation](#installation)
+    - [Inspiration](#inspiration)
+    - [Author](#author)
 
 ## Useful Links 🔗
 
@@ -13,15 +13,15 @@ Check out: [Live Demo Link - Kaizen - Indian Clothing Brand](https://kaizen-4c68
 
 ## Installation 📦
 
-1. Clone the repo
+1. Clone the repo   
    ```bash
    $ git clone https://github.com/it-Shoeb/Kaizen.git
    ```
-2. Install dependencies
+2. Install dependencies 
    ```bash
    $ npm install
    ```
-3. Run the app
+3. Run the app  
    ```bash
    $ npm run dev
    ```
