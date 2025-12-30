@@ -1,11 +1,12 @@
 # KAIZEN - The Clothing E-Commerce Shop Landing Page
 
-## Table Contents
+## Table of contents
 
-    - [Useful-Links](#useful-links)
-    - [Installation](#installation)
-    - [Inspiration](#inspiration)
-    - [Author](#author)
+- [useful-links](#useful-links)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Useful Links 🔗
 
