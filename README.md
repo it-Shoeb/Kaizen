@@ -1,16 +1,32 @@
-# React + Vite
+# KAIZEN - The Clothing E-Commerce Shop Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Table Contents
+    -[Useful Links]#useful-links()
+    -[Installation](#installation)
+    -[Acknowledgements](#acknowledgements)
+    -[Author](#author)
 
-Currently, two official plugins are available:
+## Useful Links 🔗
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out:[Live Demo Link - Kaizen - Indian Clothing Brand](https://kaizen-4c68.onrender.com/)
 
-## React Compiler
+## Installation 📦
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repo 
+    `git clone https://github.com/it-Shoeb/Kaizen.git`
+2. Install dependencies  
+    `npm install`
+3. Run the app  
+    `npm run dev`
 
-## Expanding the ESLint configuration
+## Acknowledgements 🙌
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Inspiration
+[Shopify](https://themes.shopify.com/themes/palo-alto/presets/palo-alto?surface_detail=clothing&surface_inter_position=1&surface_intra_position=1&surface_type=industry)
+
+
+## Author
+
+- Frontend Mentor - [@it-Shoeb](https://www.frontendmentor.io/profile/it-Shoeb)
+- Linkedin - [@shoebshaikh-its/](https://www.linkedin.com/in/shoebshaikh-its/)
+- Github - [@it-Shoeb/](https://github.com/it-Shoeb/)[`typescript-eslint`](https://typescript-eslint.io) in your project.
