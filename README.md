@@ -2,7 +2,7 @@
 
 ## Table Contents
 
-    - [Useful Links](#useful-links)
+    - [Useful-Links](#useful-links)
     - [Installation](#installation)
     - [Acknowledgements](#acknowledgements)
     - [Author](#author)
@@ -15,14 +15,14 @@ Check out: [Live Demo Link - Kaizen - Indian Clothing Brand](https://kaizen-4c68
 
 1. Clone the repo
    `git clone https://github.com/it-Shoeb/Kaizen.git`
-2. Install dependencies  
+2. Install dependencies
    `npm install`
-3. Run the app  
+3. Run the app
    `npm run dev`
 
 ## Acknowledgements 🙌
 
-# Inspiration
+### Inspiration
 
 [Shopify](https://themes.shopify.com/themes/palo-alto/presets/palo-alto?surface_detail=clothing&surface_inter_position=1&surface_intra_position=1&surface_type=industry)
 
